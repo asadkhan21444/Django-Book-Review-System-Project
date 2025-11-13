@@ -1,4 +1,4 @@
-# Book-Management-System-Django-
+Django Book Review System Project
 
 A simple and clean Book Management System built with Django and Bootstrap 5.
 This project allows users to create, read, update, and delete (CRUD) book records with a user-friendly interface.
